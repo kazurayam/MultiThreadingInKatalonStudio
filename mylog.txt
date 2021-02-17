@@ -1,0 +1,22 @@
+2 17, 2021 3:44:22 午後 org.codehaus.groovy.runtime.callsite.PojoMetaMethodSite$PojoCachedMethodSiteNoUnwrap invoke
+情報: Thread-10: New Thread is running... 0
+2 17, 2021 3:44:22 午後 org.codehaus.groovy.runtime.callsite.PojoMetaMethodSite$PojoCachedMethodSiteNoUnwrap invoke
+情報: Thread-10: New Thread is running... 1
+2 17, 2021 3:44:22 午後 org.codehaus.groovy.runtime.callsite.PojoMetaMethodSite$PojoCachedMethodSiteNoUnwrap invoke
+情報: Thread-10: New Thread is running... 2
+2 17, 2021 3:44:22 午後 org.codehaus.groovy.runtime.callsite.PojoMetaMethodSite$PojoCachedMethodSiteNoUnwrap invoke
+情報: Thread-10: New Thread is running... 3
+2 17, 2021 3:44:22 午後 org.codehaus.groovy.runtime.callsite.PojoMetaMethodSite$PojoCachedMethodSiteNoUnwrap invoke
+情報: Thread-10: New Thread is running... 4
+2 17, 2021 3:44:23 午後 org.codehaus.groovy.runtime.callsite.PojoMetaMethodSite$PojoCachedMethodSiteNoUnwrap invoke
+情報: Thread-10: New Thread is running... 5
+2 17, 2021 3:44:23 午後 org.codehaus.groovy.runtime.callsite.PojoMetaMethodSite$PojoCachedMethodSiteNoUnwrap invoke
+情報: Thread-10: New Thread is running... 6
+2 17, 2021 3:44:23 午後 org.codehaus.groovy.runtime.callsite.PojoMetaMethodSite$PojoCachedMethodSiteNoUnwrap invoke
+情報: Thread-10: New Thread is running... 7
+2 17, 2021 3:44:23 午後 org.codehaus.groovy.runtime.callsite.PojoMetaMethodSite$PojoCachedMethodSiteNoUnwrap invoke
+情報: Thread-10: New Thread is running... 8
+2 17, 2021 3:44:23 午後 org.codehaus.groovy.runtime.callsite.PojoMetaMethodSite$PojoCachedMethodSiteNoUnwrap invoke
+情報: Thread-10: New Thread is running... 9
+2 17, 2021 3:44:23 午後 org.codehaus.groovy.runtime.callsite.PojoMetaMethodSite$PojoCachedMethodSiteNoUnwrap invoke
+情報: Thread-10: run() finished with i=10
